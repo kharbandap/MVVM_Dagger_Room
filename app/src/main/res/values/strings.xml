@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">MVVM_Dagger_Room</string>
+    <string name="overview">Overview</string>
+    <string name="no_internet_connection">No internet Connection</string>
+</resources>

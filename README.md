@@ -56,7 +56,8 @@ Android architecture components are a collection of libraries that help you desi
 
 8- Bottom sheet dialog
 
-Used bottom sheet for showing filter on filter button click . Filters used are : Rating & Date
+Used bottom sheet for showing filter on filter button click . Filters used are : Rating & Date.
+After applying filters , data will be shown in ascending order.
 
 --------------------------------
 
